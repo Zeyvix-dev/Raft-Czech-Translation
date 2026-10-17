@@ -1,0 +1,15 @@
+{
+"name": "Raft Czech Translation",
+"slug": "raft-czech-translation",
+"author": "Zeyvix",
+"description": "Czech translation for Raft. Český překlad hry Raft.",
+"version": "1.0.0",
+"license": "GNU AGPLv3",
+"icon": "icon.png",
+"banner": "banner.jpg",
+"gameVersion": "1.1.01",
+"requiredByAllPlayers": false,
+"updateUrl": "",
+"isModPermanent": false,
+"excludedFiles": []
+}
