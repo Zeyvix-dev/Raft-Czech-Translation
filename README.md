@@ -1,82 +1,80 @@
-🇨🇿 Raft Czech Translation
+🇨🇿 Český překlad hry Raft
 
-A Czech language translation mod for Raft.
+Český překlad hry Raft vytvořený jako samostatný mod.
 
-Bring Czech localization to your Raft adventure! This mod automatically loads the Czech translation when the mod starts.
-
-
+Užij si dobrodružství na moři v češtině! Mod automaticky načte český překlad při svém spuštění.
 
 
-✨ Features
 
-Czech translation for Raft.
 
-Automatically loads the translation when the mod starts.
+✨ Funkce
 
-Includes localization data and mod source code.
+Český překlad hry Raft.
 
-Community-made project for Czech-speaking Raft players.
+Automatické načtení překladu při spuštění modu.
 
-📥 Installation
+Obsahuje překladová data a zdrojový kód modu.
 
-Option 1: RaftModding
+Projekt vytvořený pro české hráče Raftu.
 
-Install Raft ModLoader.
+📥 Instalace
 
-Open the Raft Czech Translation mod page.
+1.Možnost 1: RaftModding
 
-Click Install mod and follow the instructions.
+2.Nainstaluj Raft ModLoader.
 
-Launch Raft through Raft ModLoader.
+3.Otevři stránku českého překladu Raftu.
 
-The translation should load automatically when the mod starts.
+4.Klikni na Install mod a postupuj podle pokynů.
 
-Option 2: GitHub
+5.Spusť Raft přes Raft ModLoader.
 
-Open the latest release.
+6.Překlad by se měl načíst automaticky při spuštění modu.
 
-Download CzechLanguage.rmod from the release assets.
+Možnost 2: GitHub
 
-Install the mod using Raft ModLoader.
+1.Otevři nejnovější vydání modu.
 
-Launch Raft through the mod loader.
+2.Stáhni soubor CzechLanguage.rmod z příloh vydání.
 
-Note: Until the .rmod file is attached to the GitHub release, use the RaftModding page to install the mod.
+3.Nainstaluj mod pomocí Raft ModLoaderu.
 
-🧩 Compatibility
+4.Spusť Raft přes mod loader.
 
-Game: Raft
+🧩 Kompatibilita
 
-Supported game update: Raft Update 1.1
+Hra: Raft
 
-Current mod version: 1.0.0
+Podporovaná aktualizace: Raft Update 1.1
 
-📂 Repository Contents
+Aktuální verze překladu: 1.0.0
 
-Loc.csv — Czech localization data.
+📂 Obsah repozitáře
 
-CzechLanguage.cs — mod source code.
+Loc.csv — data českého překladu.
 
-CzechLanguage.csproj — project file.
+CzechLanguage.cs — zdrojový kód modu.
 
-modinfo.json — mod metadata.
+CzechLanguage.csproj — projektový soubor.
 
-CzechLanguage.rmod — compiled mod package.
+modinfo.json — informace o modu.
 
-icon.png and banner.jpg — project graphics.
+CzechLanguage.rmod — sestavený mod připravený k instalaci.
 
-🐛 Issues and Feedback
+icon.png a banner.jpg — grafika projektu.
 
-Found a translation mistake or a problem with the mod? Please report it in GitHub Issues.
+🐛 Chyby a návrhy
 
-Feedback and suggestions are welcome!
+Našel jsi chybu v překladu nebo problém s modem? Nahlas ho v sekci GitHub Issues.
 
-👤 Author
+Uvítám zpětnou vazbu, opravy i návrhy na vylepšení.
 
-Created by Zeyvix.
+👤 Autor
 
-RaftModding page
+Vytvořil Zeyvix.
 
-GitHub repository
+Stránka modu na RaftModding
 
-Made for the Czech Raft community. 🇨🇿
+GitHub repozitář
+
+Vytvořeno pro českou komunitu hráčů Raftu. 🇨🇿
