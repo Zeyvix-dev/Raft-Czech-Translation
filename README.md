@@ -7,14 +7,13 @@ Bring Czech localization to your Raft adventure! This mod automatically loads th
 
 
 
-
 ✨ Features
 
 Czech translation for Raft.
 
 Automatically loads the translation when the mod starts.
 
-Includes the localization CSV and mod source code.
+Includes localization data and mod source code.
 
 Community-made project for Czech-speaking Raft players.
 
@@ -34,13 +33,15 @@ The translation should load automatically when the mod starts.
 
 Option 2: GitHub
 
-Open the Releases page.
+Open the latest release.
 
-Download the CzechLanguage.rmod file from the release assets.
+Download CzechLanguage.rmod from the release assets.
 
 Install the mod using Raft ModLoader.
 
 Launch Raft through the mod loader.
+
+Note: Until the .rmod file is attached to the GitHub release, use the RaftModding page to install the mod.
 
 🧩 Compatibility
 
@@ -48,9 +49,7 @@ Game: Raft
 
 Supported game update: Raft Update 1.1
 
-Mod: Raft Czech Translation
-
-Current version: 1.0.0
+Current mod version: 1.0.0
 
 📂 Repository Contents
 
@@ -68,7 +67,7 @@ icon.png and banner.jpg — project graphics.
 
 🐛 Issues and Feedback
 
-Found a translation mistake or a problem with the mod? Please report it in the GitHub Issues section.
+Found a translation mistake or a problem with the mod? Please report it in GitHub Issues.
 
 Feedback and suggestions are welcome!
 
@@ -79,3 +78,5 @@ Created by Zeyvix.
 RaftModding page
 
 GitHub repository
+
+Made for the Czech Raft community. 🇨🇿
